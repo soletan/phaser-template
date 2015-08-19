@@ -1,0 +1,11 @@
+{
+	"name": "my-phaser-game",
+	"version": "0.0.0",
+	"private": true,
+	"dependencies": {
+		"phaser": "*"
+	},
+	"devDependencies": {
+		"phaser-examples": "*"
+	}
+}

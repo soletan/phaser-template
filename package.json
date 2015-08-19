@@ -1,0 +1,14 @@
+{
+	"name": "my-phaser-game",
+	"version": "0.0.0",
+	"private": true,
+	"dependencies": {
+		"express": "4.*"
+	},
+	"devDependencies": {
+		"grunt-cli": "*",
+		"grunt-express-server": "*",
+		"grunt-open": "*",
+		"bower": "*"
+	}
+}
